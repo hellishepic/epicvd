@@ -10,7 +10,9 @@ QnA:
 Q: How to download video stream?
 A: 1. Open inspector (F12 key) on the page with video in your browser
    2. Click on "Network" tab
-   3. Reload (F5 key) page and in list of 
+   3. Reload (F5 key) page and in list of "File"s find file with name ending (might be not in the end, but will be after dot)
+   4. In "Initiator" column click blue (or watever) color link with right mouse button and click "Copy URL"
+   5. Just paste in and download in format you want. Should work
 
 
 This is a small downloader for videos and video streams.
